@@ -1,0 +1,18 @@
+body{
+   background-image: url('./Podcast-Website-Design-Background-Image.jpg');
+ 
+   background-attachment: scroll;
+    background-size: cover;
+    height: 100px;
+    width: 100vh;
+    background-repeat: no-repeat;
+    color: rgb(0, 255, 42);
+   
+}
+h1{
+    color: rgb(255, 4, 4);
+    text-align: center;
+}
+
+
+
